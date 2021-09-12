@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "name": "mernstack",
+  "version": "1.0.0",
+  "description": "mernstack learning",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon script/master.js"
+  },
+  "author": "Eswar",
+  "license": "ISC"
+}
